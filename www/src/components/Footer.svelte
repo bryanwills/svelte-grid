@@ -5,4 +5,4 @@
   }
 </style>
 
-<div class="footer">Created by <a target="_blank" href="https://github.com/valqelyan">@vaheqelyan</a> for awesome svelte.js ❤️</div>
+<div class="footer">Created by <a target="_blank" href="https://github.com/valqelyan">@valqelyan</a> for awesome svelte.js ❤️</div>
